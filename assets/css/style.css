@@ -1,0 +1,757 @@
+body {
+    display: flex;
+    justify-content: center;
+    /*align-items: center;*/
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    background: rgb(129, 126, 126);
+}
+
+.sity, .sity2 {
+    display: flex;
+}
+.first {
+margin: 10px;
+}
+
+
+.weather {
+border: solid 2px green;
+text-align:center;
+display: flex;
+border-radius: 10px;
+width:200px ;
+margin: 5px auto;
+height: 385px;
+background: rgb(209, 198, 198);
+}
+.city{
+    margin: 0 auto;
+}
+.button {
+    font-size: 20px;
+    font-family: monospace, serif;
+    color: #fff;
+    background: linear-gradient(to left, #009FFF, #ec2f4b, #009FFF );
+    text-decoration: none;
+    padding:15px 50px ;
+    border-radius:10px ;
+    background-size: 200%;
+    transition: 1s;
+    }
+    
+.button:hover {
+background-position: right;
+    }
+
+.features{
+    list-style: none;
+    margin: 0 auto;
+    
+}
+.icon{
+    position: relative;
+    left: -20px;
+}
+
+.city-name {
+    font-size:25px ;
+    font-family: monospace, serif;
+}
+
+.deg {
+    font-size:20px ;
+    font-family: monospace, serif;
+}
+
+.clouds{
+    font-size:18px ;
+    font-family: monospace, serif;
+}
+
+
+
+
+
+
+
+
+
+
+    
+    .features2{
+        list-style: none;
+        margin: 0 auto;
+        
+    }
+    .icon2{
+        position: relative;
+        left: -20px;
+    }
+    
+    .city-name2 {
+        font-size:25px ;
+        font-family: monospace, serif;
+    }
+    
+    .deg2 {
+        font-size:20px ;
+        font-family: monospace, serif;
+    }
+    
+    .clouds2{
+        font-size:18px ;
+        font-family: monospace, serif;
+    }
+
+
+
+
+
+
+
+
+
+    
+    .features3{
+        list-style: none;
+        margin: 0 auto;
+        
+    }
+    .icon3{
+        position: relative;
+        left: -20px;
+    }
+    
+    .city-name3 {
+        font-size:25px ;
+        font-family: monospace, serif;
+    }
+    
+    .deg3 {
+        font-size:20px ;
+        font-family: monospace, serif;
+    }
+    
+    .clouds3{
+        font-size:18px ;
+        font-family: monospace, serif;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .features4{
+        list-style: none;
+        margin: 0 auto;
+        
+    }
+    .icon4{
+        position: relative;
+        left: -20px;
+    }
+    
+    .city-name4 {
+        font-size:25px ;
+        font-family: monospace, serif;
+    }
+    
+    .deg4 {
+        font-size:20px ;
+        font-family: monospace, serif;
+    }
+    
+    .clouds4{
+        font-size:18px ;
+        font-family: monospace, serif;
+    }
+   
+
+    
+
+
+
+
+        .features5{
+            list-style: none;
+            margin: 0 auto;
+            
+        }
+        .icon5{
+            position: relative;
+            left: -20px;
+        }
+        
+        .city-name5 {
+            font-size:25px ;
+            font-family: monospace, serif;
+        }
+        
+        .deg5 {
+            font-size:20px ;
+            font-family: monospace, serif;
+        }
+        
+        .clouds5{
+            font-size:18px ;
+            font-family: monospace, serif;
+        }
+
+
+
+
+
+
+        .features6{
+            list-style: none;
+            margin: 0 auto;
+            
+        }
+        .icon6{
+            position: relative;
+            left: -20px;
+        }
+        
+        .city-name6 {
+            font-size:25px ;
+            font-family: monospace, serif;
+        }
+        
+        .deg6 {
+            font-size:20px ;
+            font-family: monospace, serif;
+        }
+        
+        .clouds6{
+            font-size:18px ;
+            font-family: monospace, serif;
+        }
+
+
+
+
+
+
+        .features7{
+            list-style: none;
+            margin: 0 auto;
+            
+        }
+        .icon7{
+            position: relative;
+            left: -20px;
+        }
+        
+        .city-name7 {
+            font-size:25px ;
+            font-family: monospace, serif;
+        }
+        
+        .deg7 {
+            font-size:20px ;
+            font-family: monospace, serif;
+        }
+        
+        .clouds7{
+            font-size:18px ;
+            font-family: monospace, serif;
+        }
+
+
+
+
+        .features8{
+            list-style: none;
+            margin: 0 auto;
+            
+        }
+        .icon8{
+            position: relative;
+            left: -20px;
+        }
+        
+        .city-name8 {
+            font-size:25px ;
+            font-family: monospace, serif;
+        }
+        
+        .deg8 {
+            font-size:20px ;
+            font-family: monospace, serif;
+        }
+        
+        .clouds8{
+            font-size:18px ;
+            font-family: monospace, serif;
+        }
+
+
+
+
+
+        .features9{
+            list-style: none;
+            margin: 0 auto;
+            
+        }
+        .icon9{
+            position: relative;
+            left: -20px;
+        }
+        
+        .city-name9 {
+            font-size:25px ;
+            font-family: monospace, serif;
+        }
+        
+        .deg9 {
+            font-size:20px ;
+            font-family: monospace, serif;
+        }
+        
+        .clouds9{
+            font-size:18px ;
+            font-family: monospace, serif;
+        }
+
+
+
+
+        .features10{
+            list-style: none;
+            margin: 0 auto;
+            
+        }
+        .icon10{
+            position: relative;
+            left: -20px;
+        }
+        
+        .city-name10 {
+            font-size:25px ;
+            font-family: monospace, serif;
+        }
+        
+        .deg10 {
+            font-size:20px ;
+            font-family: monospace, serif;
+        }
+        
+        .clouds10{
+            font-size:18px ;
+            font-family: monospace, serif;
+        }
+
+
+
+
+        .features11{
+            list-style: none;
+            margin: 0 auto;
+            
+        }
+        .icon11{
+            position: relative;
+            left: -20px;
+        }
+        
+        .city-name11 {
+            font-size:25px ;
+            font-family: monospace, serif;
+        }
+        
+        .deg11 {
+            font-size:20px ;
+            font-family: monospace, serif;
+        }
+        
+        .clouds11{
+            font-size:18px ;
+            font-family: monospace, serif;
+        }
+
+
+        .features12{
+            list-style: none;
+            margin: 0 auto;
+            
+        }
+        .icon12{
+            position: relative;
+            left: -20px;
+        }
+        
+        .city-name12 {
+            font-size:25px ;
+            font-family: monospace, serif;
+        }
+        
+        .deg12 {
+            font-size:20px ;
+            font-family: monospace, serif;
+        }
+        
+        .clouds12{
+            font-size:18px ;
+            font-family: monospace, serif;
+        }
+
+
+        .features13{
+            list-style: none;
+            margin: 0 auto;
+            
+        }
+        .icon13{
+            position: relative;
+            left: -20px;
+        }
+        
+        .city-name13 {
+            font-size:25px ;
+            font-family: monospace, serif;
+        }
+        
+        .deg13 {
+            font-size:20px ;
+            font-family: monospace, serif;
+        }
+        
+        .clouds13{
+            font-size:18px ;
+            font-family: monospace, serif;
+        }
+
+
+
+        .features14{
+            list-style: none;
+            margin: 0 auto;
+            
+        }
+        .icon14{
+            position: relative;
+            left: -20px;
+        }
+        
+        .city-name14 {
+            font-size:25px ;
+            font-family: monospace, serif;
+        }
+        
+        .deg14 {
+            font-size:20px ;
+            font-family: monospace, serif;
+        }
+        
+        .clouds14{
+            font-size:18px ;
+            font-family: monospace, serif;
+        }
+
+
+
+        .features15{
+            list-style: none;
+            margin: 0 auto;
+            
+        }
+        .icon15{
+            position: relative;
+            left: -20px;
+        }
+        
+        .city-name15 {
+            font-size:25px ;
+            font-family: monospace, serif;
+        }
+        
+        .deg15 {
+            font-size:20px ;
+            font-family: monospace, serif;
+        }
+        
+        .clouds15{
+            font-size:18px ;
+            font-family: monospace, serif;
+        }
+
+
+
+        .features16{
+            list-style: none;
+            margin: 0 auto;
+            
+        }
+        .icon16{
+            position: relative;
+            left: -20px;
+        }
+        
+        .city-name16 {
+            font-size:25px ;
+            font-family: monospace, serif;
+        }
+        
+        .deg16 {
+            font-size:20px ;
+            font-family: monospace, serif;
+        }
+        
+        .clouds16{
+            font-size:18px ;
+            font-family: monospace, serif;
+        }
+
+
+
+        .features17{
+            list-style: none;
+            margin: 0 auto;
+            
+        }
+        .icon17{
+            position: relative;
+            left: -20px;
+        }
+        
+        .city-name17 {
+            font-size:25px ;
+            font-family: monospace, serif;
+        }
+        
+        .deg17 {
+            font-size:20px ;
+            font-family: monospace, serif;
+        }
+        
+        .clouds17{
+            font-size:18px ;
+            font-family: monospace, serif;
+        }
+
+
+        .features18{
+            list-style: none;
+            margin: 0 auto;
+            
+        }
+        .icon18{
+            position: relative;
+            left: -20px;
+        }
+        
+        .city-name18 {
+            font-size:25px ;
+            font-family: monospace, serif;
+        }
+        
+        .deg18 {
+            font-size:20px ;
+            font-family: monospace, serif;
+        }
+        
+        .clouds18{
+            font-size:18px ;
+            font-family: monospace, serif;
+        }
+
+
+
+        .features19{
+            list-style: none;
+            margin: 0 auto;
+            
+        }
+        .icon19{
+            position: relative;
+            left: -20px;
+        }
+        
+        .city-name19 {
+            font-size:25px ;
+            font-family: monospace, serif;
+        }
+        
+        .deg19 {
+            font-size:20px ;
+            font-family: monospace, serif;
+        }
+        
+        .clouds19{
+            font-size:18px ;
+            font-family: monospace, serif;
+        }
+
+
+
+        .features20{
+            list-style: none;
+            margin: 0 auto;
+            
+        }
+        .icon20{
+            position: relative;
+            left: -20px;
+        }
+        
+        .city-name20 {
+            font-size:25px ;
+            font-family: monospace, serif;
+        }
+        
+        .deg20 {
+            font-size:20px ;
+            font-family: monospace, serif;
+        }
+        
+        .clouds20{
+            font-size:18px ;
+            font-family: monospace, serif;
+        }
+
+
+        .features21{
+            list-style: none;
+            margin: 0 auto;
+            
+        }
+        .icon21{
+            position: relative;
+            left: -20px;
+        }
+        
+        .city-name21 {
+            font-size:25px ;
+            font-family: monospace, serif;
+        }
+        
+        .deg21 {
+            font-size:20px ;
+            font-family: monospace, serif;
+        }
+        
+        .clouds21{
+            font-size:18px ;
+            font-family: monospace, serif;
+        }
+
+
+
+        .features22{
+            list-style: none;
+            margin: 0 auto;
+            
+        }
+        .icon22{
+            position: relative;
+            left: -20px;
+        }
+        
+        .city-name22 {
+            font-size:25px ;
+            font-family: monospace, serif;
+        }
+        
+        .deg22 {
+            font-size:20px ;
+            font-family: monospace, serif;
+        }
+        
+        .clouds22{
+            font-size:18px ;
+            font-family: monospace, serif;
+        }
+
+
+
+
+        .features23{
+            list-style: none;
+            margin: 0 auto;
+            
+        }
+        .icon23{
+            position: relative;
+            left: -20px;
+        }
+        
+        .city-name23 {
+            font-size:25px ;
+            font-family: monospace, serif;
+        }
+        
+        .deg23 {
+            font-size:20px ;
+            font-family: monospace, serif;
+        }
+        
+        .clouds23{
+            font-size:18px ;
+            font-family: monospace, serif;
+        }
+
+
+
+
+        .features24{
+            list-style: none;
+            margin: 0 auto;
+            
+        }
+        .icon24{
+            position: relative;
+            left: -20px;
+        }
+        
+        .city-name24 {
+            font-size:25px ;
+            font-family: monospace, serif;
+        }
+        
+        .deg24 {
+            font-size:20px ;
+            font-family: monospace, serif;
+        }
+        
+        .clouds24{
+            font-size:18px ;
+            font-family: monospace, serif;
+        }
+
+
+
+        .features25{
+            list-style: none;
+            margin: 0 auto;
+            
+        }
+        .icon25{
+            position: relative;
+            left: -20px;
+        }
+        
+        .city-name25 {
+            font-size:25px ;
+            font-family: monospace, serif;
+        }
+        
+        .deg25 {
+            font-size:20px ;
+            font-family: monospace, serif;
+        }
+        
+        .clouds25{
+            font-size:18px ;
+            font-family: monospace, serif;
+        }
